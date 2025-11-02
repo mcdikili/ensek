@@ -1,0 +1,21 @@
+{
+  "name": "burb",
+  "version": "1.0.0",
+  "description": "test through a ui public website",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "codegen": "playwright codegen",
+    "test:report": "playwright show-report",
+    "test:interactive": "npx playwright test --project=chromium --ui"
+  },
+  "keywords": [],
+  "author": "Dikili",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.9.1"
+  }
+}
