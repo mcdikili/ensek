@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\source\\ensek\\ApiTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0733C7B0-5701-4B59-9875-E53071ABDF54}|ApiTests\\ApiTests.csproj|c:\\source\\ensek\\apitests\\apitests\\ensekapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733C7B0-5701-4B59-9875-E53071ABDF54}|ApiTests\\ApiTests.csproj|solutionrelative:apitests\\ensekapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{157B6DC9-29A9-4436-A2E5-FBFFAA9A9CE9}|Solution Items{157B6DC9-29A9-4436-A2E5-FBFFAA9A9CE9}|C:\\source\\ensek\\ApiTests\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{157B6DC9-29A9-4436-A2E5-FBFFAA9A9CE9}|Solution Items{157B6DC9-29A9-4436-A2E5-FBFFAA9A9CE9}|solutionrelative:Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733C7B0-5701-4B59-9875-E53071ABDF54}|ApiTests\\ApiTests.csproj|c:\\source\\ensek\\apitests\\apitests\\fixture\\testfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733C7B0-5701-4B59-9875-E53071ABDF54}|ApiTests\\ApiTests.csproj|solutionrelative:apitests\\fixture\\testfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733C7B0-5701-4B59-9875-E53071ABDF54}|ApiTests\\ApiTests.csproj|c:\\source\\ensek\\apitests\\apitests\\fixture\\testdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733C7B0-5701-4B59-9875-E53071ABDF54}|ApiTests\\ApiTests.csproj|solutionrelative:apitests\\fixture\\testdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733C7B0-5701-4B59-9875-E53071ABDF54}|ApiTests\\ApiTests.csproj|c:\\source\\ensek\\apitests\\apitests\\models\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733C7B0-5701-4B59-9875-E53071ABDF54}|ApiTests\\ApiTests.csproj|solutionrelative:apitests\\models\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\source\\ensek\\ApiTests\\Readme.md",
+              "RelativeDocumentMoniker": "Readme.md",
+              "ToolTip": "C:\\source\\ensek\\ApiTests\\Readme.md",
+              "RelativeToolTip": "Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-03T00:05:40.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\source\\ensek\\ApiTests\\ApiTests\\Models\\Settings.cs",
+              "RelativeDocumentMoniker": "ApiTests\\Models\\Settings.cs",
+              "ToolTip": "C:\\source\\ensek\\ApiTests\\ApiTests\\Models\\Settings.cs",
+              "RelativeToolTip": "ApiTests\\Models\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T23:59:36.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestDependencies.cs",
+              "DocumentMoniker": "C:\\source\\ensek\\ApiTests\\ApiTests\\Fixture\\TestDependencies.cs",
+              "RelativeDocumentMoniker": "ApiTests\\Fixture\\TestDependencies.cs",
+              "ToolTip": "C:\\source\\ensek\\ApiTests\\ApiTests\\Fixture\\TestDependencies.cs",
+              "RelativeToolTip": "ApiTests\\Fixture\\TestDependencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T23:59:11.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestFixture.cs",
+              "DocumentMoniker": "C:\\source\\ensek\\ApiTests\\ApiTests\\Fixture\\TestFixture.cs",
+              "RelativeDocumentMoniker": "ApiTests\\Fixture\\TestFixture.cs",
+              "ToolTip": "C:\\source\\ensek\\ApiTests\\ApiTests\\Fixture\\TestFixture.cs",
+              "RelativeToolTip": "ApiTests\\Fixture\\TestFixture.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAArwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T23:54:05.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnsekApiTests.cs",
+              "DocumentMoniker": "C:\\source\\ensek\\ApiTests\\ApiTests\\EnsekApiTests.cs",
+              "RelativeDocumentMoniker": "ApiTests\\EnsekApiTests.cs",
+              "ToolTip": "C:\\source\\ensek\\ApiTests\\ApiTests\\EnsekApiTests.cs",
+              "RelativeToolTip": "ApiTests\\EnsekApiTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T23:07:12.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
